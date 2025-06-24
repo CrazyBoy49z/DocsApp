@@ -3,9 +3,9 @@
   "description": "DocsApp assets for MODX",
   "version": "1.0.0",
   "dependencies": {
-    "autoprefixer": "^8.4.1",
+    "autoprefixer": "^10.4.21",
     "concat": "^1.0.3",
-    "node-sass": "^4.9.0",
+    "node-sass": "^9.0.0",
     "parallelshell": "^3.0.2",
     "uglify-js": "^3.3.24",
     "watch": "^1.0.2"
